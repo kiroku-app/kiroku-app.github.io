@@ -1,1 +1,1 @@
-# kikoru.github.io
+# kiroku-app.github.io
